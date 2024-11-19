@@ -13,3 +13,5 @@ Projects used
 [Metroxe/one html page challenge](https://github.com/Metroxe/one-html-page-challenge)
 
 [orteil/musicgen](https://orteil.dashnet.org/musicgen)
+
+[gabrielecirulli/2048](https://github.com/gabrielecirulli/2048)
